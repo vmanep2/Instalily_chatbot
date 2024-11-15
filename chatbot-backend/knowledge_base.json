@@ -1,0 +1,4 @@
+[
+    { "question": "Check Order Status", "answer": "To check your order status, please visit [Order Status](https://your-ecommerce.com/order-status)." },
+    { "question": "Cancel an Order", "answer": "To cancel your order, go to the cancellation page [Cancel Order](https://your-ecommerce.com/cancel-order)." }
+  ]
